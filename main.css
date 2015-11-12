@@ -45,6 +45,8 @@ ul.posts li {
 }
 
 ul.summary{
+	list-style: none;
+	list-style: none;
 	text-align: left;
 	font-family: Helvetica;
 	color: #7c8082;
