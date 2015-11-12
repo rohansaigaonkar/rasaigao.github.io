@@ -10,6 +10,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
+	font-family: Oswald;
     display: inline;
     margin-right: 20px;
 }
@@ -19,6 +20,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+	color: gray;
 }
 h1 {
     font-size: 3em;
@@ -31,6 +33,7 @@ h2 {
 	text-shadow: 2px 2px 5px #000000;
 }
 p {
+	font-family: Helvetica;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -51,8 +54,6 @@ ul.posts li {
 
 ul.summary{
 	list-style: none;
-	list-style: none;
-	text-align: left;
 	font-family: Helvetica;
 	color: #7c8082;
 	font-size: 1em;
