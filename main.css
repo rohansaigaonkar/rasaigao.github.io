@@ -33,7 +33,7 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 2px solid #bf80ff;
     font-size: .8em;
 }
 
@@ -49,7 +49,7 @@ ul.posts li {
 ul.summary{
 	list-style: none;
 	font-family: 'Open Sans Condensed', sans-serif;
-	color: #444444;
+	color: #606060;
 	font-size: 1.5em;
 }
 #wrench{
