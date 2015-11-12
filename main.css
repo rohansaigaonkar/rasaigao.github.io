@@ -45,7 +45,9 @@ ul.posts li {
 }
 
 p.summary{
-	text-align: center;
+	text-align: left;
 	font-family: Helvetica;
 	color: #7c8082;
+	font-size: 1em;
+	
 }
