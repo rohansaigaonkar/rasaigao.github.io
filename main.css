@@ -49,8 +49,8 @@ ul.posts li {
 ul.summary{
 	list-style: none;
 	font-family: 'Open Sans Condensed', sans-serif;
-	color: #222222
-	font-size: 2em;
+	color: #222222;
+	font-size: 1.5em;
 }
 #wrench{
 	height: 8em;
