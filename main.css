@@ -1,10 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
-	font-family: Good Times RG;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Open Sans Condensed', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -33,7 +32,7 @@ h2 {
 	text-shadow: 2px 2px 5px #000000;
 }
 p {
-	font-family: Helvetica;
+	font-family: 'Open Sans Condensed', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -54,7 +53,7 @@ ul.posts li {
 
 ul.summary{
 	list-style: none;
-	font-family: Helvetica;
+	font-family: 'Open Sans Condensed', sans-serif;
 	color: #7c8082;
 	font-size: 1em;
 	
