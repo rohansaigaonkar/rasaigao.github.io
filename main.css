@@ -51,5 +51,10 @@ ul.summary{
 	font-family: 'Open Sans Condensed', sans-serif;
 	color: #222222
 	font-size: 1em;
+}
+#wrench{
+	height: 8em;
+	width: 8em;
+	margin-bottom: 4em;
 	
 }
