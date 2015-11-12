@@ -1,3 +1,7 @@
+@font-face{
+	font-family: HeaderFont;
+	src: url(https://fonts.googleapis.com/css?family=Oswald:700,400);
+}
 body {
     margin: 60px auto;
     width: 70%;
@@ -22,7 +26,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: Helvetica;
+    font-family: Oswald;
+	text-shadow: 2px 2px 5px #000000;
+}
+h2 {
+	font-size: 2.5em;
+	font-family: Oswald
 	text-shadow: 2px 2px 5px #000000;
 }
 p {
