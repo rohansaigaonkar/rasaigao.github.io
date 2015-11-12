@@ -44,3 +44,8 @@ ul.posts li {
     list-style: none;
 }
 
+p.summary{
+	text-align: center;
+	font-family: Helvetica;
+	color: #7c8082;
+}
