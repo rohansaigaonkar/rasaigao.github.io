@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+	font-family: Good Times RG;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -21,7 +22,8 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: Comic Sans MS;
+	text-shadow: 2px 2px 5px #000000;
 }
 p {
     font-size: 1.5em;
