@@ -58,6 +58,10 @@ ul.summary{
 .summary a{
 	color: #8b1aff;
 }
+
+.summary a:hover{
+	color: #c266ff;
+}
 	
 #wrench{
 	height: 8em;
