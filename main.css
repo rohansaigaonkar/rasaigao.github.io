@@ -29,11 +29,17 @@ h2 {
 	font-family: Quicksand;
 	font-weight: 600;
 }
+h3 {
+	color: #8b1aff;
+	font-size: 2em;
+	font-family: Quicksand;
+	font-weight: 500;
+}
 p {
 	font-family: 'Quicksand', sans-serif;
     font-size: 1.3em;
     line-height: 1.3em;
-    color: #333;
+	color: #333;
 }
 footer {
     border-top: 2px solid #bf80ff;
