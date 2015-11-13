@@ -17,7 +17,7 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
+a:hover,a:active {
 	color: #b266ff;
 }
 h2 {
