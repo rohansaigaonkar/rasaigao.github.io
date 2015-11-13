@@ -17,7 +17,10 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover,a:active {
+a:hover {
+	color: #b266ff;
+}
+#navbar.selected:link {
 	color: #b266ff;
 }
 h2 {
