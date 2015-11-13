@@ -75,3 +75,15 @@ ul.summary{
 	margin-bottom: 4em;
 	
 }
+ul.experience {
+	
+	list-style: none;
+	font-family: 'Quicksand', sans-serif;
+	color: #606060;
+	font-size: 1.3em;
+}
+.experience li:before {
+	content: "\003E";
+	margin-right: 1em;
+	margin-left: 0em;
+}
