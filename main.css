@@ -55,6 +55,10 @@ ul.summary{
 	color: #606060;
 	font-size: 1.3em;
 }
+ul.summary a{
+	color: #8b1aff;
+}
+	
 #wrench{
 	height: 8em;
 	width: 8em;
