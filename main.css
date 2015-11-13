@@ -85,6 +85,6 @@ ul.experience {
 }
 .experience li:before {
 	content: "\003E";
-	margin-right: 1em;
+	margin-right: 0.5em;
 	margin-left: 0em;
 }
