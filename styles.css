@@ -44,6 +44,12 @@ h1 {
   padding-left: 35px;
 }
 
+.first {
+    max-height: 40px;
+	max-width: 40px;
+	padding-left: 0px;
+}
+
 a {
   color: #b21aff;
   text-decoration: none;
