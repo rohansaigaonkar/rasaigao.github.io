@@ -1,0 +1,71 @@
+body {
+	display: flex;
+	background-color: #EEEEEE;
+	align-items: center;
+}
+p {
+	font-family: 'Titillium Web';
+	margin: 0;
+}
+
+h1 {
+	font-family: 'Titillium Web';
+	margin: 0, 0, 10px 0;
+}
+
+.text {
+	max-width: 400px;
+}
+
+.headshot {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+	max-height: 40px;
+	max-width: 40px;
+	padding-left: 25px;
+}
+
+.info {
+	margin: 15px 0 0 0;
+}
+
+.content {
+  flex: 1;
+  padding-left: 35px;
+}
+
+a {
+  color: #b21aff;
+  text-decoration: none;
+}
+
+@media (max-width: 767px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .headshot {
+    margin: auto;
+  }
+
+  .content {
+    padding-left: 0;
+  }
+
+  h1, .content {
+    text-align: center;
+  }
+
+  h1 {
+    margin-top: 15px;
+  }
